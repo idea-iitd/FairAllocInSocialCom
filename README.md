@@ -20,12 +20,12 @@ python SEAL.py 1 15 1 0 1
 
 To run GreedyNash use:
 ```bash
-python GreedyNash 1 15 1 0 1
+python GreedyNash.py 1 15 1 0 1
 ```
 
 To run NashMax use:
 ```bash
-python NashMax.py.py 1 15 1 3 2
+python NashMax.py 1 15 1 3 2
 ```
 
 To run RevMax use:
