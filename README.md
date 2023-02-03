@@ -37,9 +37,14 @@ Requirements
 
 Results are saved in results/[algo_name]/ folder
 
+
+## Bibtex
+
+```
 @inproceedings{fairAllocInSocialCom,
   author = {Anjali Gupta and Shreyansh Nagori and Abhijnan Chakraborty and Rohit Vaish and Sayan Ranu and Prajit nadkarni and Narendra Varma and Muthusamy Chelliah},
   title = {Towards Fair Allocation in Social Commerce Platforms},
   booktitle = {The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) },
   year = {2023}
 }
+```
