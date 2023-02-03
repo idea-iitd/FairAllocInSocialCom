@@ -36,3 +36,10 @@ Requirements
 - Gurobi Optimizer version 9.0.2 is required to run NashMax and RevMax.
 
 Results are saved in results/[algo_name]/ folder
+
+@inproceedings{fairAllocInSocialCom,
+  author = {Anjali Gupta and Shreyansh Nagori and Abhijnan Chakraborty and Rohit Vaish and Sayan Ranu and Prajit nadkarni and Narendra Varma and Muthusamy Chelliah},
+  title = {Towards Fair Allocation in Social Commerce Platforms},
+  booktitle = {The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) },
+  year = {2023}
+}
