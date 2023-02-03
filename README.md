@@ -1,5 +1,5 @@
 # Towards Fair Allocation In Social Commerce
-This repository contains official implementation of the algorithms defined in our paper titled, Anjali Gupta, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit nadkarni, Narendra Varma and Muthusamy ChelliahSayan, "Towards Fair Allocation in Social Commerce Platforms", in The Web Conference 2023 (formerly known as WWW).
+This repository contains official implementation of the algorithms defined in our paper titled, Anjali Gupta, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit nadkarni, Narendra Varma and Muthusamy Chelliah, "Towards Fair Allocation in Social Commerce Platforms", in The Web Conference 2023 (formerly known as WWW).
 
 ## Use bellow commands to run algorithms
 ```bash
